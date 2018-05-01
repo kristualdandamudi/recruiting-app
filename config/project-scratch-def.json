@@ -1,0 +1,9 @@
+{
+    "country":"US",
+    "orgName": "Demo Company",
+    "edition": "Developer",
+    "features":"DebugApex",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
