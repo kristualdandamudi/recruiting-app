@@ -1,0 +1,11 @@
+[
+    {
+        "sobject": "Position__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Position__cs.json"
+        ],
+        "":"SELECT Name,Department__c,Approval_Status__c,Location__c,Job_Description__c from Position__c"
+    }
+]

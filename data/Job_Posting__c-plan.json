@@ -1,0 +1,11 @@
+[
+    {
+        "sobject": "Job_Posting__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Job_Posting__cs.json"
+        ],
+        "":"SELECT Job_Posting_Site__r.name,Position__r.name from Job_Posting__c"
+    }
+]

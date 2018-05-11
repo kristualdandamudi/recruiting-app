@@ -1,0 +1,26 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Position__c",
+                "referenceId": "Position__cRef1"
+            },
+            "Name": "Awesome Sales Rep",
+            "Department__c": "Sales",
+            "Approval_Status__c": "Approved",
+            "Location__c": "US",
+            "Job_Description__c": "Sales rep to join the AW Computing team serving the western region of AMER"
+        },
+        {
+            "attributes": {
+                "type": "Position__c",
+                "referenceId": "Position__cRef2"
+            },
+            "Name": "Super Sales Rep",
+            "Department__c": "Sales",
+            "Approval_Status__c": "Approved",
+            "Location__c": "US",
+            "Job_Description__c": "Sales rep to join the AW Computing team serving the eastern region of AMER"
+        }
+    ]
+}

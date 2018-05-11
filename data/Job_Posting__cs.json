@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Job_Posting__c",
+                "referenceId": "Job_Posting__cRef1"
+            },
+            "Job_Posting_Site__r": {
+                "attributes": {
+                    "type": "Job_Posting_Site__c",
+                    "url": "/services/data/v42.0/sobjects/Job_Posting_Site__c/a075B000003rhJaQAI"
+                },
+                "Name": "Lots-O-Jobs"
+            },
+            "Position__r": {
+                "attributes": {
+                    "type": "Position__c",
+                    "url": "/services/data/v42.0/sobjects/Position__c/a035B000001PzsHQAS"
+                },
+                "Name": "Super Sales Rep"
+            }
+        }
+    ]
+}

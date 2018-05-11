@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>Layout</name>
+    <members>Job_Posting_Site__c-Job Posting Site Layout</members>
+    <members>Job_Posting__c-Job Posting Layout</members>
+    <members>Position__c-Position Layout</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Job_Posting_Site__c.Description__c</members>
+    <members>Job_Posting_Site__c.Job_Posting_Site_URL__c</members>
+    <members>Job_Posting_Site__c.Status__c</members>
+    <members>Job_Posting_Site__c.Technical_Site__c</members>
+    <members>Job_Posting__c.Job_Posting_Site__c</members>
+    <members>Job_Posting__c.Position__c</members>
+    <members>Position__c.Related_Position__c</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Job_Posting_Site__c</members>
+    <members>Job_Posting__c</members>
+    <members>Position__c</members>
+    <members>Review__c</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Job_Posting_Site__c</members>
+  </types>
+  <version>42.0</version>
+</Package>
