@@ -5,6 +5,7 @@
     <members>Job_Posting_Site__c-Job Posting Site Layout</members>
     <members>Job_Posting__c-Job Posting Layout</members>
     <members>Position__c-Position Layout</members>
+    <members>Review__c-Review Layout</members>
   </types>
   <types>
     <name>CustomField</name>
@@ -15,6 +16,16 @@
     <members>Job_Posting__c.Job_Posting_Site__c</members>
     <members>Job_Posting__c.Position__c</members>
     <members>Position__c.Related_Position__c</members>
+    <members>Review__c.Core_Competencies_Comments__c</members>
+    <members>Review__c.Core_Competencies__c</members>
+    <members>Review__c.Experience_Comments__c</members>
+    <members>Review__c.Experience__c</members>
+    <members>Review__c.Interviewer__c</members>
+    <members>Review__c.Job_Application__c</members>
+    <members>Review__c.Leadership_Skills_Comments__c</members>
+    <members>Review__c.Leadership_Skills__c</members>
+    <members>Review__c.Reason_Recommended__c</members>
+    <members>Review__c.Recommend_for_Hire__c</members>
   </types>
   <types>
     <name>CustomObject</name>
